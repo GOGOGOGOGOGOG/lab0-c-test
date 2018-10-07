@@ -209,4 +209,5 @@ void q_reverse(queue_t *q) {
     q->head = current;
   }
   q->head = last;
+  // int test;
 }
